@@ -19,7 +19,7 @@ This Python script helps you analyze your Instagram connections by comparing you
 ## Usage
 1. Run the script using:
    ```sh
-   python script.py
+   python main.py
    ```
 2. Choose an option:
    - `1` to see all connections (who follows you back and who doesn't).
