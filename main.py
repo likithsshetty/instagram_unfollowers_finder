@@ -1,11 +1,11 @@
 import json
 from time import sleep
 
-with open("followers_1.json") as file:
+with open("files/followers_1.json") as file:
     followersFile = json.load(file)
     file.close()
 
-with open("following.json") as file:
+with open("files/following.json") as file:
     followingFile = json.load(file)
     file.close()
 
