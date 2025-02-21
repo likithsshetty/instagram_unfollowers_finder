@@ -7,7 +7,7 @@ This Python script helps you analyze your Instagram connections by comparing you
 - Identifies users you follow who do not follow you back.
 
 ## Requirements
-- Python 3.x
+- Python 3.13.2
 
 ## Downloading Your Instagram Data
 To obtain the necessary JSON files from Instagram:
