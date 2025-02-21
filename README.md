@@ -23,7 +23,7 @@ To obtain the necessary JSON files from Instagram:
 2. Ensure you have the required JSON files:
    - `followers_1.json` (Contains your followers list)
    - `following.json` (Contains your following list)
-3. Place these files in the *files* directory as the script.
+3. Place these files in the `files` directory as the script.
 
 ## Usage
 1. Run the script using:
