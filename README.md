@@ -7,7 +7,7 @@ This Python script helps you analyze your Instagram connections by comparing you
 - Identifies users you follow who do not follow you back.
 
 ## Requirements
-- Python 3.13.2
+- Python 3.1 or higher
 
 ## Downloading Your Instagram Data
 To obtain the necessary JSON files from Instagram:
@@ -23,7 +23,7 @@ To obtain the necessary JSON files from Instagram:
 2. Ensure you have the required JSON files:
    - `followers_1.json` (Contains your followers list)
    - `following.json` (Contains your following list)
-3. Place these files in the `files` directory as the script.
+3. Place these files inside the `files` directory inside the project.
 
 ## Usage
 1. Run the script using:
